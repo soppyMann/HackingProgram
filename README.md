@@ -5,7 +5,7 @@ A fun little program I made to scare people
 
 * Run Hack.py
 ### Alternatively:
-* Put all thr files in the same folder
+* Put all the files in the same folder
 
 * Open a Python Console in the folder
 
